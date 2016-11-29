@@ -6,12 +6,13 @@
   <artifactId>hello-world</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
+  <description>Projet pour atelier</description>
 
   <name>hello-world</name>
   <url>http://maven.apache.org</url>
 
   <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.build.sourceEncoding>CP-1252</project.build.sourceEncoding>
   </properties>
 
   <dependencies>
