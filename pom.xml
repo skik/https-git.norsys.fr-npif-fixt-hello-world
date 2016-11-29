@@ -8,8 +8,8 @@
   <packaging>jar</packaging>
   <description>Projet pour atelier</description>
 
+
   <name>hello-world</name>
-  <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>CP-1252</project.build.sourceEncoding>
