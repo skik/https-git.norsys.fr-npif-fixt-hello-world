@@ -6,7 +6,7 @@
   <artifactId>hello-world</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
-  <description>Projet pour atelier</description>
+  <description>Projet pour atelier etc/</description>
 
 
   <name>hello-world</name>
